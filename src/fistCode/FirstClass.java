@@ -1,0 +1,7 @@
+package fistCode;
+
+public class FirstClass {
+    public static void main(String[] args) {
+        System.out.println("Line 1");
+    }
+}
